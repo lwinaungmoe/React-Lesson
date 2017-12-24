@@ -3,7 +3,7 @@ import React,{Component} from 'react';
 class SearchBar  extends Component {
     constructor(props){
     super(props);
-//Uess
+//User///
     this.state={term :''};
     }
     render(){
